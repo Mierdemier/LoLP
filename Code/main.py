@@ -5,15 +5,6 @@ from Experiments.LinkPredictionSearch import big_search, plot_cumulative_advanta
 from Analytic.AnalyticExperiments import *
 
 if __name__ == "__main__":
-    #Checks to do:
-    #v Baseline returns sensible values.
-    #v Big Search returns sensible values on at least one graph.
-    #- Check that at least one deep dive works.
-    #- ER analytic baseline is roughly correct.
-    #- CM analytic baseline is roughly correct.
-    #- CM link predictor is calibrated.
-    #- CM has no threshold that improves over baseline.
-
     print("Select which experiment you want to replicate using a numeric code: ")
     print("1: Obtain baseline")
     print("2: Search over link predictors")
