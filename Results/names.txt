@@ -1,0 +1,39 @@
+Adamic Adar
+Common Neighbours
+Jaccard Coefficient
+Preferential Attachment
+Resource Allocation
+Salton Index
+Sorenson Index
+Hub-Promoted
+Hub-Depressed
+LHN Index
+CAR Common Neighbours
+CAR Adamic Adar
+CAR Resource Allocation
+CAR Preferential Attachment
+Individual Attraction
+Bayesian Common Neighbours
+Bayesian Adamic Adar
+Bayesian Resource Allocation
+Functional Similarity
+Local Interaction Score
+Clustering Index
+Link Clustering Index
+Shortest Path Length
+Katz Index
+Cosine Laplacian
+Commute Time
+Normalised Commute Time
+Matrix Forest Index
+Global LHN Index
+Random Walk w/ Restarts
+Max-Entropy Random Walk
+Flow Propagation
+Blondel Index
+Local Path Index
+L3 Index
+Local Random Walk
+Superposed Random Walk
+FriendLink
+PropFlow
